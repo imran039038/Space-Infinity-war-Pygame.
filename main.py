@@ -6,7 +6,7 @@ from pygame import mixer
 # screen
 pygame.init()
 screen = pygame.display.set_mode((626, 626))
-pygame.display.set_caption("Space infinity war".upper())
+pygame.display.set_caption("Corona Defender".upper())
 icon = pygame.image.load("ufo.png")
 pygame.display.set_icon(icon)
 scorevalue = 0
